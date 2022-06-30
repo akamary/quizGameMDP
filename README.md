@@ -1,2 +1,2 @@
 # quizGameMDP
-Quiz Game using MDP algorithm 
+Quiz Game using Markov Decision Process 
